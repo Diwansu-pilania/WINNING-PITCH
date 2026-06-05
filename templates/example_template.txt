@@ -1,0 +1,54 @@
+PROJECT NAME
+=============
+
+Tagline:
+[One sentence describing your project]
+
+PROBLEM
+--------
+What problem are you solving?
+
+Why is it important?
+
+SOLUTION
+---------
+How does your solution solve the problem?
+
+TARGET USERS
+------------
+Who benefits from this solution?
+
+KEY FEATURES
+------------
+1.
+2.
+3.
+
+COMPETITIVE ADVANTAGE
+---------------------
+Why is your solution different?
+
+DEMO HIGHLIGHTS
+---------------
+1.
+2.
+3.
+
+IMPACT
+------
+What measurable value does your solution create?
+
+FUTURE ROADMAP
+--------------
+1.
+2.
+3.
+
+TEAM
+----
+Name:
+Role:
+
+CALL TO ACTION
+--------------
+What do you want judges or stakeholders to do next?
